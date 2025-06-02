@@ -1,5 +1,8 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
+## NAME: JAIYANTAN S
+## REG_NO:- 212224100021
+
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
